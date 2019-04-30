@@ -10,7 +10,7 @@ const ButtonExample = () =>
             justifyContent: 'center'
         }
     } >
-    <Button primary> Click to compare content </Button> 
+    <Button color='red'> Click to compare content </Button> 
     </div>
 
 
